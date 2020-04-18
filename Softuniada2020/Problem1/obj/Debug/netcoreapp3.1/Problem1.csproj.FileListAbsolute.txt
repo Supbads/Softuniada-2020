@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\Softuniada2020\Problem1\bin\Debug\netcoreapp3.1\Problem1.exe
+C:\Users\Admin\Desktop\Softuniada2020\Problem1\bin\Debug\netcoreapp3.1\Problem1.deps.json
+C:\Users\Admin\Desktop\Softuniada2020\Problem1\bin\Debug\netcoreapp3.1\Problem1.runtimeconfig.json
+C:\Users\Admin\Desktop\Softuniada2020\Problem1\bin\Debug\netcoreapp3.1\Problem1.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Softuniada2020\Problem1\bin\Debug\netcoreapp3.1\Problem1.dll
+C:\Users\Admin\Desktop\Softuniada2020\Problem1\bin\Debug\netcoreapp3.1\Problem1.pdb
+C:\Users\Admin\Desktop\Softuniada2020\Problem1\obj\Debug\netcoreapp3.1\Problem1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Softuniada2020\Problem1\obj\Debug\netcoreapp3.1\Problem1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Softuniada2020\Problem1\obj\Debug\netcoreapp3.1\Problem1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Softuniada2020\Problem1\obj\Debug\netcoreapp3.1\Problem1.dll
+C:\Users\Admin\Desktop\Softuniada2020\Problem1\obj\Debug\netcoreapp3.1\Problem1.pdb
